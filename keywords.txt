@@ -1,0 +1,3 @@
+Debugger	KEYWORD1
+debug 		KEYWORD2
+setLevet	KEYWORD2
